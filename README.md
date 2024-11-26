@@ -1,6 +1,5 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## AI DRIVEN INSIGHTS FOR WATER QUALITY PREDICTION USING ML
+Predicting the quality of water by using various machine learning models such as SVM,random forest etc., to find its accuracy thereby to create a webpage based on it.
 
 ## About
 <!--Detailed Description about the project-->
